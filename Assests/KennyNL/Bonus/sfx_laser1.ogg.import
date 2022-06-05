@@ -1,0 +1,16 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOGGVorbis"
+uid="uid://bqv0ppt053r2k"
+path="res://.godot/imported/sfx_laser1.ogg-9530b28ccefc9c1f9c46f89c497bad4d.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assests/KennyNL/Bonus/sfx_laser1.ogg"
+dest_files=["res://.godot/imported/sfx_laser1.ogg-9530b28ccefc9c1f9c46f89c497bad4d.oggvorbisstr"]
+
+[params]
+
+loop=true
+loop_offset=0

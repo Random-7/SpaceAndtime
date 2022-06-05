@@ -1,0 +1,16 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOGGVorbis"
+uid="uid://butsmxhoett6t"
+path="res://.godot/imported/sfx_lose.ogg-1120d55448aa46691804824e8f86023d.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assests/KennyNL/Bonus/sfx_lose.ogg"
+dest_files=["res://.godot/imported/sfx_lose.ogg-1120d55448aa46691804824e8f86023d.oggvorbisstr"]
+
+[params]
+
+loop=true
+loop_offset=0

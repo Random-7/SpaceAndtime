@@ -1,0 +1,16 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOGGVorbis"
+uid="uid://bdkfi8kghs63x"
+path="res://.godot/imported/sfx_shieldDown.ogg-bc24159f5c2c1046b0fcd952d542d2f8.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assests/KennyNL/Bonus/sfx_shieldDown.ogg"
+dest_files=["res://.godot/imported/sfx_shieldDown.ogg-bc24159f5c2c1046b0fcd952d542d2f8.oggvorbisstr"]
+
+[params]
+
+loop=true
+loop_offset=0

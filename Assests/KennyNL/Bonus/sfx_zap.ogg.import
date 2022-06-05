@@ -1,0 +1,16 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOGGVorbis"
+uid="uid://sryjtslggfpu"
+path="res://.godot/imported/sfx_zap.ogg-db72e7b88b822898aa609c1dd5f38333.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assests/KennyNL/Bonus/sfx_zap.ogg"
+dest_files=["res://.godot/imported/sfx_zap.ogg-db72e7b88b822898aa609c1dd5f38333.oggvorbisstr"]
+
+[params]
+
+loop=true
+loop_offset=0

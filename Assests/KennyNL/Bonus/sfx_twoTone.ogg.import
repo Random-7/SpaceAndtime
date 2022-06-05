@@ -1,0 +1,16 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOGGVorbis"
+uid="uid://5un1wqhtma6p"
+path="res://.godot/imported/sfx_twoTone.ogg-63fd8a0ca78e13a35525e17f7965d00d.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assests/KennyNL/Bonus/sfx_twoTone.ogg"
+dest_files=["res://.godot/imported/sfx_twoTone.ogg-63fd8a0ca78e13a35525e17f7965d00d.oggvorbisstr"]
+
+[params]
+
+loop=true
+loop_offset=0
